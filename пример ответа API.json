@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "data": {
+    "stores": [
+      {
+        "id": "metro-001",
+        "name": "METRO",
+        "logo_url": "https://cdn.petrushka.ru/logos/metro.png",
+        "delivery_info": {
+          "type": "scheduled",
+          "description": "Ближайшая доставка сегодня 21:00-23:00",
+          "available": true
+        },
+        "external_url": "https://metro-cc.ru/partner/petrushka",
+        "order": 1
+      },
+      {
+        "id": "ashan-002",
+        "name": "Ашан",
+        "logo_url": "https://cdn.petrushka.ru/logos/ashan.png",
+        "delivery_info": {
+          "type": "scheduled",
+          "description": "Ближайшая доставка сегодня 18:00-20:00",
+          "available": true
+        },
+        "external_url": "https://ashan.ru/partner/petrushka",
+        "order": 2
+      },
+      {
+        "id": "vkusvill-003",
+        "name": "ВкусВилл",
+        "logo_url": "https://cdn.petrushka.ru/logos/vkusvill.png",
+        "delivery_info": {
+          "type": "express",
+          "description": "Быстрая доставка от 20 до 60 минут",
+          "available": true
+        },
+        "external_url": "https://vkusvill.ru/partner/petrushka",
+        "order": 3
+      },
+      {
+        "id": "victoria-004",
+        "name": "ВИКТОРИЯ",
+        "logo_url": "https://cdn.petrushka.ru/logos/victoria.png",
+        "delivery_info": {
+          "type": "scheduled",
+          "description": "Ближайшая доставка сегодня 17:00-19:00",
+          "available": true
+        },
+        "external_url": "https://victoria.ru/partner/petrushka",
+        "order": 4
+      }
+    ]
+  }
+}
